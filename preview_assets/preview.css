@@ -1,0 +1,9 @@
+/* FONTS */
+@font-face {
+  font-family: 'geomanistregular';
+  src: local('Geomanist'), url(geomanist-regular-webfont.ttf) format('truetype');
+}
+
+* {
+  font-family: geomanistregular;
+}
