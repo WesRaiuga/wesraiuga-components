@@ -2,8 +2,7 @@
 
 A personal library for projects with HTML, CSS and JS.
 
-## 🔗 [View all components](https://wesraiuga.github.io/wesraiuga-components/)
-
+### 🔗 [View all components](https://wesraiuga.github.io/wesraiuga-components/)
 <br/>
 
 ## How to use
@@ -14,7 +13,7 @@ Include the reference of the CDN inside the ``<head>`` tag of your HTML document
 ``` html
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/wesraiuga/wesraiuga-components@main/css/style.css">
 ```
-<br/> <hr/> <br/>
+<hr>
 
 ## **Alert**
 
@@ -29,7 +28,7 @@ HTML structure:
   <p>Conteúdo em texto</p>
 </div>
 ```
-### 🔗 [See examples](https://wesraiuga.github.io/wesraiuga-components/#alert)
+🔗 [See examples](https://wesraiuga.github.io/wesraiuga-components/#alert)
 <!-- Output:
 
 <img width="250" src="readme_assets/img/alert-success_example.png"> -->
