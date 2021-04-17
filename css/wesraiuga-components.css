@@ -1,0 +1,24 @@
+/* ALERTS */
+
+.alert {
+  border-radius: 5px;
+  padding: 0 10px;
+  margin-top: 10px;
+}
+
+.alert p {
+  margin: 10px 0;
+  text-align: left;
+}
+
+.alert-success {
+  background-color: #D4EDDA;
+  color: #155724;
+  border: 1px solid #155724;
+}
+
+.alert-danger {
+  background-color: #F8D7DA;
+  color: #721C24;
+  border: 1px solid #721C24;
+}
