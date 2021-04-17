@@ -11,14 +11,32 @@
   text-align: left;
 }
 
-.alert-success {
+.alert-green {
   background-color: #D4EDDA;
   color: #155724;
   border: 1px solid #155724;
 }
 
-.alert-danger {
+.alert-red {
   background-color: #F8D7DA;
   color: #721C24;
   border: 1px solid #721C24;
+}
+
+.alert-yellow {
+  background-color: #FFF3CD;
+  color: #B87A04;
+  border: 1px solid #B87A04;
+}
+
+.alert-blue {
+  background-color: #CCE5FF;
+  color: #0084D0;
+  border: 1px solid #0084D0;
+}
+
+.alert-grey {
+  background-color: #E2E3E5;
+  color: #383D41;
+  border: 1px solid #383D41;
 }
