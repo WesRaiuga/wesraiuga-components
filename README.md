@@ -21,7 +21,7 @@ Include the reference of the CDN inside the ``<head>`` tag of your HTML document
 ```
 <br/> <br/>
 
-## **Alert** <sub><img src="readme_assets/img/css.svg" height="20"/></sub>
+## **Alert** <sub><img src="readme_assets/img/css.svg" height="20" title="CSS"/></sub>
 Alerts available:
 - alert-green
 - alert-red
@@ -40,4 +40,4 @@ HTML structure:
 
 <br/> <br/>
 
-## **Component Example** <sub> <img src="readme_assets/img/css.svg" height="20"/> <img src="readme_assets/img/js.svg" height="20"/> </sub>
+## **Component Example** <sub> <img src="readme_assets/img/css.svg" height="20" title="CSS"/> <img src="readme_assets/img/js.svg" height="20" title="Javascript"/> </sub>
